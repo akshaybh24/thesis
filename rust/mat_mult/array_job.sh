@@ -5,7 +5,7 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
 #SBATCH --time=120:00:00
-#SBATCH --array=1-8
+#SBATCH --array=1-4
 #SBATCH --output=matmult_%A_%a.out
 #SBATCH --error=matmult_%A_%a.err
 
