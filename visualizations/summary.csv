@@ -1,0 +1,2 @@
+source_file,num_triples,num_mutations,num_runs,final_avg_fitness_difference,final_avg_fitness_cells,h_eq_char_len_mean_of_run_avgs,h_eq_char_len_max_run_max,h_eq_char_len_min_run_min,h_eq_char_len_overall_min,h_eq_char_len_overall_max,c_eq_char_len_mean_of_run_avgs,c_eq_char_len_max_run_max,c_eq_char_len_min_run_min,c_eq_char_len_overall_min,c_eq_char_len_overall_max,c_eq_href_mean_of_run_avgs,c_eq_href_overall_mean
+matmult_21589422_1.out,10,1,10,10.4212,23.81,31.440696,33,31,31,33,114.032,233,47,47,233,15.824,15.824

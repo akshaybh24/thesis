@@ -1,0 +1,4 @@
+10 5000000 10 0.01 1 holdout:10 cap pos SAs
+15 5000000 10 0.01 1 holdout:10 cap pos SAs
+20 5000000 10 0.01 1 holdout:10 cap pos SAs
+25 5000000 10 0.01 1 holdout:10 cap pos SAs

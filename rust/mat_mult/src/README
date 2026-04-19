@@ -1,0 +1,10 @@
+Argument order:
+
+1. Number of matrices used per evaluation (required)
+2. Number of generations to run for (required)
+3. Number of runs to do (required)
+4. Simulated Annealing constant (required, but if SA mode off it wont do anything)
+5. Number of mutations (required)
+6. Toggle simulated annealing (optional) (off by default, SA to toggle on)
+7. Toggle cap mode (optional) (on by default, nocap to toggle off)
+8. Toggle greedy mode (optional) (off by default, pos to toggle on)
